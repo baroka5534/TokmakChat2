@@ -1,0 +1,7 @@
+{
+  "name": "Copy of tokmakchat",
+  "description": "An interactive AI assistant robot simulation named 'VeriAkışı' that combines natural language processing, AI-driven data analysis, and 3D visualization. Users can chat with the robot via text or voice to analyze a sample dataset.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
